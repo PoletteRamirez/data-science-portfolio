@@ -1,0 +1,81 @@
+order_id,order_date,product,category,quantity,unit_price_usd,discount_pct,city,payment_method,sales_usd
+ORD-0001,2026-05-21,Mechanical Keyboard,Accessories,1,59.9,0.0,Chihuahua,Debit Card,59.9
+ORD-0002,2026-02-14,Mechanical Keyboard,Accessories,5,59.9,0.15,Guadalajara,Credit Card,254.57
+ORD-0003,2026-04-22,Wireless Mouse,Accessories,1,18.5,0.0,Mexico City,Credit Card,18.5
+ORD-0004,2026-10-07,Monitor 24in,Electronics,2,145.0,0.1,Chihuahua,PayPal,261.0
+ORD-0005,2026-01-04,Webcam,Electronics,3,48.0,0.0,Tijuana,PayPal,144.0
+ORD-0006,2026-03-21,Desk Lamp,Office,3,21.0,0.0,Monterrey,Credit Card,63.0
+ORD-0007,2026-02-19,Mechanical Keyboard,Accessories,4,59.9,0.05,Monterrey,Cash,227.62
+ORD-0008,2026-10-02,Wireless Mouse,Accessories,4,18.5,0.0,Guadalajara,Credit Card,74.0
+ORD-0009,2026-07-05,Monitor 24in,Electronics,3,145.0,0.15,Chihuahua,Credit Card,369.75
+ORD-0010,2026-05-29,Wireless Mouse,Accessories,2,18.5,0.0,Chihuahua,Credit Card,37.0
+ORD-0011,2026-08-21,Water Bottle,Lifestyle,3,12.75,0.05,Chihuahua,Cash,36.34
+ORD-0012,2026-05-17,Desk Lamp,Office,2,21.0,0.0,Mexico City,Debit Card,42.0
+ORD-0013,2026-03-25,Monitor 24in,Electronics,2,145.0,0.1,Guadalajara,Cash,261.0
+ORD-0014,2026-06-16,Monitor 24in,Electronics,2,145.0,0.0,Chihuahua,Credit Card,290.0
+ORD-0015,2026-05-18,Desk Lamp,Office,4,21.0,0.0,Chihuahua,Cash,84.0
+ORD-0016,2026-07-22,Laptop Stand,Office,4,27.5,0.1,Chihuahua,Cash,99.0
+ORD-0017,2026-10-15,USB-C Hub,Accessories,2,32.0,0.15,Monterrey,PayPal,54.4
+ORD-0018,2026-07-05,Webcam,Electronics,4,48.0,0.0,Chihuahua,PayPal,192.0
+ORD-0019,2026-02-26,Mechanical Keyboard,Accessories,1,59.9,0.0,Tijuana,Debit Card,59.9
+ORD-0020,2026-02-02,Water Bottle,Lifestyle,5,12.75,0.1,Guadalajara,PayPal,57.38
+ORD-0021,2026-10-11,Monitor 24in,Electronics,3,145.0,0.0,Tijuana,Credit Card,435.0
+ORD-0022,2026-06-24,Monitor 24in,Electronics,3,145.0,0.0,Monterrey,PayPal,435.0
+ORD-0023,2026-01-02,USB-C Hub,Accessories,4,32.0,0.05,Mexico City,Debit Card,121.6
+ORD-0024,2026-06-02,Monitor 24in,Electronics,1,145.0,0.15,Mexico City,Debit Card,123.25
+ORD-0025,2026-03-24,USB-C Hub,Accessories,3,32.0,0.15,Mexico City,Credit Card,81.6
+ORD-0026,2026-09-08,Webcam,Electronics,3,48.0,0.0,Ciudad Juárez,Cash,144.0
+ORD-0027,2026-01-30,Notebook,Stationery,2,4.25,0.0,Mexico City,Credit Card,8.5
+ORD-0028,2026-02-05,Mechanical Keyboard,Accessories,4,59.9,0.15,Chihuahua,Debit Card,203.66
+ORD-0029,2026-03-26,Backpack,Lifestyle,5,39.0,0.05,Mexico City,PayPal,185.25
+ORD-0030,2026-04-13,Laptop Stand,Office,5,27.5,0.05,Guadalajara,Cash,130.62
+ORD-0031,2026-08-20,Backpack,Lifestyle,5,39.0,0.0,Chihuahua,Debit Card,195.0
+ORD-0032,2026-01-11,Mechanical Keyboard,Accessories,3,59.9,0.15,Mexico City,Debit Card,152.74
+ORD-0033,2026-01-04,Webcam,Electronics,2,48.0,0.0,Tijuana,Credit Card,96.0
+ORD-0034,2026-01-17,Laptop Stand,Office,1,27.5,0.05,Ciudad Juárez,Debit Card,26.12
+ORD-0035,2026-04-20,Notebook,Stationery,4,4.25,0.15,Chihuahua,PayPal,14.45
+ORD-0036,2026-07-28,Laptop Stand,Office,4,27.5,0.0,Ciudad Juárez,Credit Card,110.0
+ORD-0037,2026-08-05,Water Bottle,Lifestyle,3,12.75,0.1,Guadalajara,Credit Card,34.43
+ORD-0038,2026-07-26,Mechanical Keyboard,Accessories,1,59.9,0.05,Ciudad Juárez,Debit Card,56.9
+ORD-0039,2026-10-02,Laptop Stand,Office,2,27.5,0.1,Chihuahua,PayPal,49.5
+ORD-0040,2026-08-25,USB-C Hub,Accessories,3,32.0,0.0,Ciudad Juárez,PayPal,96.0
+ORD-0041,2026-01-26,Monitor 24in,Electronics,1,145.0,0.15,Ciudad Juárez,Credit Card,123.25
+ORD-0042,2026-07-28,Laptop Stand,Office,2,27.5,0.1,Guadalajara,Debit Card,49.5
+ORD-0043,2026-03-26,Water Bottle,Lifestyle,1,12.75,0.1,Ciudad Juárez,PayPal,11.47
+ORD-0044,2026-05-27,Notebook,Stationery,4,4.25,0.1,Tijuana,PayPal,15.3
+ORD-0045,2026-06-01,USB-C Hub,Accessories,2,32.0,0.0,Ciudad Juárez,Credit Card,64.0
+ORD-0046,2026-01-26,Desk Lamp,Office,1,21.0,0.15,Guadalajara,Debit Card,17.85
+ORD-0047,2026-02-11,Wireless Mouse,Accessories,5,18.5,0.0,Ciudad Juárez,Credit Card,92.5
+ORD-0048,2026-03-03,Laptop Stand,Office,4,27.5,0.15,Chihuahua,Credit Card,93.5
+ORD-0049,2026-08-03,Webcam,Electronics,1,48.0,0.15,Mexico City,Cash,40.8
+ORD-0050,2026-06-10,Notebook,Stationery,2,4.25,0.0,Monterrey,PayPal,8.5
+ORD-0051,2026-08-23,USB-C Hub,Accessories,3,32.0,0.05,Ciudad Juárez,Credit Card,91.2
+ORD-0052,2026-10-16,Backpack,Lifestyle,5,39.0,0.0,Ciudad Juárez,Debit Card,195.0
+ORD-0053,2026-03-09,Monitor 24in,Electronics,3,145.0,0.05,Ciudad Juárez,Debit Card,413.25
+ORD-0054,2026-03-22,Desk Lamp,Office,3,21.0,0.1,Mexico City,Cash,56.7
+ORD-0055,2026-01-05,Webcam,Electronics,5,48.0,0.15,Monterrey,Credit Card,204.0
+ORD-0056,2026-03-01,USB-C Hub,Accessories,3,32.0,0.0,Tijuana,Debit Card,96.0
+ORD-0057,2026-04-18,Notebook,Stationery,3,4.25,0.05,Chihuahua,Cash,12.11
+ORD-0058,2026-05-09,Monitor 24in,Electronics,4,145.0,0.0,Ciudad Juárez,PayPal,580.0
+ORD-0059,2026-01-02,Notebook,Stationery,1,4.25,0.05,Chihuahua,Cash,4.04
+ORD-0060,2026-10-10,USB-C Hub,Accessories,4,32.0,0.1,Mexico City,Credit Card,115.2
+ORD-0061,2026-03-18,Mechanical Keyboard,Accessories,1,59.9,0.15,Ciudad Juárez,Cash,50.91
+ORD-0062,2026-03-17,Webcam,Electronics,5,48.0,0.1,Chihuahua,Credit Card,216.0
+ORD-0063,2026-01-21,Notebook,Stationery,3,4.25,0.05,Chihuahua,Debit Card,12.11
+ORD-0064,2026-10-14,Mechanical Keyboard,Accessories,3,59.9,0.1,Mexico City,Debit Card,161.73
+ORD-0065,2026-04-01,Laptop Stand,Office,2,27.5,0.1,Ciudad Juárez,Debit Card,49.5
+ORD-0066,2026-05-08,Desk Lamp,Office,4,21.0,0.05,Chihuahua,Credit Card,79.8
+ORD-0067,2026-08-29,Water Bottle,Lifestyle,1,12.75,0.0,Chihuahua,PayPal,12.75
+ORD-0068,2026-04-27,Desk Lamp,Office,3,21.0,0.0,Ciudad Juárez,Debit Card,63.0
+ORD-0069,2026-05-23,Water Bottle,Lifestyle,3,12.75,0.0,Monterrey,Cash,38.25
+ORD-0070,2026-10-02,Monitor 24in,Electronics,4,145.0,0.05,Ciudad Juárez,Credit Card,551.0
+ORD-0071,2026-10-25,Notebook,Stationery,2,4.25,0.05,Ciudad Juárez,Credit Card,8.07
+ORD-0072,2026-06-26,Webcam,Electronics,4,48.0,0.05,Guadalajara,Credit Card,182.4
+ORD-0073,2026-04-08,Water Bottle,Lifestyle,5,12.75,0.05,Ciudad Juárez,PayPal,60.56
+ORD-0074,2026-10-03,Wireless Mouse,Accessories,5,18.5,0.0,Monterrey,PayPal,92.5
+ORD-0075,2026-06-10,Mechanical Keyboard,Accessories,3,59.9,0.0,Tijuana,Cash,179.7
+ORD-0076,2026-07-29,Monitor 24in,Electronics,3,145.0,0.05,Guadalajara,Cash,413.25
+ORD-0077,2026-04-09,Monitor 24in,Electronics,2,145.0,0.1,Tijuana,PayPal,261.0
+ORD-0078,2026-10-19,USB-C Hub,Accessories,5,32.0,0.05,Guadalajara,Credit Card,152.0
+ORD-0079,2026-04-18,Notebook,Stationery,3,4.25,0.1,Mexico City,Cash,11.47
+ORD-0080,2026-08-15,Backpack,Lifestyle,4,39.0,0.0,Mexico City,PayPal,156.0
